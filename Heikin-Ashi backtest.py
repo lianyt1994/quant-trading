@@ -19,7 +19,9 @@ Created on Thu Feb 15 20:48:35 2018
 # it changes its name from fix_yahoo_finance to yfinance, lol
 
 
-# In[2]:
+# 相关文档:
+# ef.stock.get_quote_history('aapl',beg='20241001',klt=60)
+# https://efinance.readthedocs.io/en/latest/api.html#efinance.stock.get_quote_history
 
 
 import pandas as pd
